@@ -1,19 +1,24 @@
-# Hi, I'm Eslam 👋
+# Eslam Mohamed
 
-I build interactive web experiences and C++ projects. I enjoy turning dense information into clear, engaging interfaces.
+Communications and Computer Engineering student at Zewail City. I work on AI, robotics, embedded systems, and C++ software.
 
-أبني تجارب ويب تفاعلية ومشاريع C++، وأهتم بتقديم الأفكار المعقدة بشكل واضح وسهل الاستخدام.
+## Projects
 
-## Selected work
+- **AI smart gloves for sign-language translation** - An assistive technology prototype connecting glove inputs with AI logic to turn signs into speech.
+- **Agriculture Protectors** - A pesticide-detection robotics project focused on safer farming. I led the team at the Benha University AI Hackathon.
+- **AI agent prototypes** - A study and research assistant for summarizing resources and planning study sessions, plus a task-planning workflow that breaks goals into steps.
+- **[Farm Frenzy](https://github.com/eslammohamed202220-beep/frame_game)** - A C++ Windows farm game with animal care, resource management, levels, and local saves.
 
-- **[IEEE ZC-SB Board Meeting](https://github.com/eslammohamed202220-beep/ieee-zc-board-meeting)** — An interactive presentation of the student branch's 2026/27 operating model, with navigable scenes and discussion prompts. [View live](https://eslammohamed202220-beep.github.io/ieee-zc-board-meeting/).
+## Recognition
 
-- **[IEEE ZC-SB Family Meeting](https://github.com/eslammohamed202220-beep/ieee-zc-family-meeting)** — A 27-scene kickoff presentation with committee profiles, a slide index, a timer, and keyboard and touch navigation. [View live](https://eslammohamed202220-beep.github.io/ieee-zc-family-meeting/).
+- 1st place, Artificial Intelligence and Embedded Systems Solution Challenge, Menofia University.
+- 1st place, Benha University AI Hackathon / Innovation Marathon, with Agriculture Protectors.
+- 3rd place, Egypt International Science & Technology Fair (EISTF), Chemistry, Physics & Energy, 2024.
 
-- **[Farm Frenzy](https://github.com/eslammohamed202220-beep/frame_game)** — A Windows farm game with resource management, animal care, levels, saving, and a local leaderboard.
+## Skills
 
-## Tools I use in these projects
+C++ · Python · Object-oriented programming · Arduino · Sensors · Robotics prototyping · AI agent workflows
 
-`JavaScript` · `HTML` · `CSS` · `Vite` · `GSAP` · `C++`
+## Resume
 
-See the repositories above for demos, source code, and setup instructions.
+[Download my resume (PDF)](resume/Eslam_Mohamed_Resume.pdf)
