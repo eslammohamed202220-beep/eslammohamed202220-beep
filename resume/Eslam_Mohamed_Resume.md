@@ -1,12 +1,12 @@
 # Eslam Mohamed
 
-Communications and Computer Engineering Student | AI, Robotics, Software
+Communications and Computer Engineering Student | AI and Robotics
 
 El Sharkia, Egypt | s-eslam.farahat@zewailcity.edu.eg | github.com/eslammohamed202220-beep
 
 ## Summary
 
-Communications and Computer Engineering student at Zewail City. Projects include smart gloves for sign-language translation, a pesticide-detection robot, AI study tools, and a C++ farm game.
+Communications and Computer Engineering student at Zewail City focused on AI and robotics. Built and presented a pesticide-detection robotics project, worked on smart gloves for sign-language translation, and developed AI study-agent prototypes.
 
 ## Education
 
@@ -16,13 +16,13 @@ Communications and Computer Engineering student at Zewail City. Projects include
 
 ## Projects
 
-**AI Smart Gloves for Sign-Language Translation**
-
-Worked on an assistive technology concept/prototype connecting glove inputs with AI logic to convert signs into speech.
-
 **Agriculture Protectors - Pesticide-Detection Robot**
 
 Built and presented an agriculture-focused robotics project for pesticide detection and safer farming; led the team at the Benha University AI Hackathon.
+
+**AI Smart Gloves for Sign-Language Translation**
+
+Worked on an assistive technology concept/prototype connecting glove inputs with AI logic to convert signs into speech.
 
 **AI Agent Prototypes**
 

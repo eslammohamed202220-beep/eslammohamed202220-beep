@@ -1,11 +1,11 @@
 # Eslam Mohamed
 
-Communications and Computer Engineering student at Zewail City. I work on AI, robotics, embedded systems, and C++ software.
+Communications and Computer Engineering student at Zewail City, focused on AI and robotics. I build prototypes for assistive technology, agriculture, and practical AI tools.
 
 ## Projects
 
-- **AI smart gloves for sign-language translation** - An assistive technology prototype connecting glove inputs with AI logic to turn signs into speech.
 - **Agriculture Protectors** - A pesticide-detection robotics project focused on safer farming. I led the team at the Benha University AI Hackathon.
+- **AI smart gloves for sign-language translation** - An assistive technology prototype connecting glove inputs with AI logic to turn signs into speech.
 - **AI agent prototypes** - A study and research assistant for summarizing resources and planning study sessions, plus a task-planning workflow that breaks goals into steps.
 - **[Farm Frenzy](https://github.com/eslammohamed202220-beep/frame_game)** - A C++ Windows farm game with animal care, resource management, levels, and local saves.
 
@@ -17,7 +17,7 @@ Communications and Computer Engineering student at Zewail City. I work on AI, ro
 
 ## Skills
 
-C++ · Python · Object-oriented programming · Arduino · Sensors · Robotics prototyping · AI agent workflows
+Python · C++ · Arduino · Sensors · Robotics prototyping · AI agent workflows · Object-oriented programming
 
 ## Resume
 
