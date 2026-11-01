@@ -1,24 +1,26 @@
 # Eslam Mohamed
 
-Communications and Computer Engineering student at Zewail City, focused on AI and robotics. I build prototypes for assistive technology, agriculture, and practical AI tools.
+Communications and Computer Engineering student at Zewail City of Science, Technology and Innovation. Areas of focus include artificial intelligence, robotics, and embedded systems.
 
-## Projects
+## Selected Projects
 
-- **Agriculture Protectors** - A pesticide-detection robotics project focused on safer farming. I led the team at the Benha University AI Hackathon.
-- **AI smart gloves for sign-language translation** - An assistive technology prototype connecting glove inputs with AI logic to turn signs into speech.
-- **AI agent prototypes** - A study and research assistant for summarizing resources and planning study sessions, plus a task-planning workflow that breaks goals into steps.
-- **[Farm Frenzy](https://github.com/eslammohamed202220-beep/frame_game)** - A C++ Windows farm game with animal care, resource management, levels, and local saves.
+- **Agriculture Protectors:** Pesticide-detection robotics project focused on safer farming. Team lead at the Benha University AI Hackathon.
+- **Sign-Language Translation Smart Gloves:** Assistive technology project exploring glove inputs and AI logic for sign-language-to-speech translation.
+- **AI Agent Prototypes:** Study and research assistant for resource summarization and study planning; task automation workflow for goal decomposition and prioritization.
+- **[Farm Frenzy](https://github.com/eslammohamed202220-beep/frame_game):** Object-oriented C++ game with resource management, timed levels, and local saves.
 
-## Recognition
+## Awards
 
 - 1st place, Artificial Intelligence and Embedded Systems Solution Challenge, Menofia University.
 - 1st place, Benha University AI Hackathon / Innovation Marathon, with Agriculture Protectors.
 - 3rd place, Egypt International Science & Technology Fair (EISTF), Chemistry, Physics & Energy, 2024.
 
-## Skills
+## Technical Skills
 
-Python · C++ · Arduino · Sensors · Robotics prototyping · AI agent workflows · Object-oriented programming
+- **Programming:** Python, C++, object-oriented programming
+- **Robotics and embedded systems:** Arduino, sensors, prototype development
+- **AI:** Agent workflows, prompt engineering
 
 ## Resume
 
-[Download my resume (PDF)](resume/Eslam_Mohamed_Resume.pdf)
+[Curriculum Vitae (PDF)](resume/Eslam_Mohamed_Resume.pdf)
